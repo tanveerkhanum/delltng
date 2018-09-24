@@ -1,0 +1,59 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @tanveerkhanum Sign out
+1
+0 0 tufailahm/delltrng
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
+delltrng/Assignment1.txt
+49b243a  2 minutes ago
+@tufailahm tufailahm Add files via upload
+     
+30 lines (16 sloc)  781 Bytes
+Create a table called Employee with the following Columns  and perform the following operations:-
+------------------------------------------------------------------------------------------------------------
+
+EmployeeID
+EmployeeName
+EmployeeAddress
+DOB
+DOJ
+Salary
+
+
+a.) Insert five records
+
+b) Retrieve all the records
+
+
+c) Retrieve the Employee name whose salary is greater than 20000
+
+d) Retrieve the Employee name whose address contains 'a' or 'p' or 'r'  as the last character
+
+select * from student_t where ADDRESS  like ('%a') or ADDRESS like ('%P') or ADDRESS like('%i')
+
+
+ 
+e) Increase the Salary of all the Employee by 20%
+
+f) Delete all the employee records whose salary is less than 5000
+
+g) Add another column Email and update the contents.
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
